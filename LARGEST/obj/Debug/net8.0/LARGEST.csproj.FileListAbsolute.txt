@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\c#practicing\LARGEST\bin\Debug\net8.0\LARGEST.exe
+C:\Users\USER\source\repos\c#practicing\LARGEST\bin\Debug\net8.0\LARGEST.deps.json
+C:\Users\USER\source\repos\c#practicing\LARGEST\bin\Debug\net8.0\LARGEST.runtimeconfig.json
+C:\Users\USER\source\repos\c#practicing\LARGEST\bin\Debug\net8.0\LARGEST.dll
+C:\Users\USER\source\repos\c#practicing\LARGEST\bin\Debug\net8.0\LARGEST.pdb
+C:\Users\USER\source\repos\c#practicing\LARGEST\obj\Debug\net8.0\LARGEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\c#practicing\LARGEST\obj\Debug\net8.0\LARGEST.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\c#practicing\LARGEST\obj\Debug\net8.0\LARGEST.AssemblyInfo.cs
+C:\Users\USER\source\repos\c#practicing\LARGEST\obj\Debug\net8.0\LARGEST.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\c#practicing\LARGEST\obj\Debug\net8.0\LARGEST.sourcelink.json
+C:\Users\USER\source\repos\c#practicing\LARGEST\obj\Debug\net8.0\LARGEST.dll
+C:\Users\USER\source\repos\c#practicing\LARGEST\obj\Debug\net8.0\refint\LARGEST.dll
+C:\Users\USER\source\repos\c#practicing\LARGEST\obj\Debug\net8.0\LARGEST.pdb
+C:\Users\USER\source\repos\c#practicing\LARGEST\obj\Debug\net8.0\LARGEST.genruntimeconfig.cache
+C:\Users\USER\source\repos\c#practicing\LARGEST\obj\Debug\net8.0\ref\LARGEST.dll
