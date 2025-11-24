@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\bin\Debug\net8.0\passbyvalue&reference.exe
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\bin\Debug\net8.0\passbyvalue&reference.deps.json
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\bin\Debug\net8.0\passbyvalue&reference.runtimeconfig.json
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\bin\Debug\net8.0\passbyvalue&reference.dll
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\bin\Debug\net8.0\passbyvalue&reference.pdb
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\obj\Debug\net8.0\passbyvalue&reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\obj\Debug\net8.0\passbyvalue&reference.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\obj\Debug\net8.0\passbyvalue&reference.AssemblyInfo.cs
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\obj\Debug\net8.0\passbyvalue&reference.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\obj\Debug\net8.0\passbyvalue&reference.sourcelink.json
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\obj\Debug\net8.0\passbyvalue&reference.dll
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\obj\Debug\net8.0\refint\passbyvalue&reference.dll
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\obj\Debug\net8.0\passbyvalue&reference.pdb
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\obj\Debug\net8.0\passbyvalue&reference.genruntimeconfig.cache
+C:\Users\USER\source\repos\c#practicing\passbyvalue&reference\obj\Debug\net8.0\ref\passbyvalue&reference.dll
