@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\c#practicing\LINQ5\obj\Debug\net8.0\LINQ5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\c#practicing\LINQ5\obj\Debug\net8.0\LINQ5.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\c#practicing\LINQ5\obj\Debug\net8.0\LINQ5.AssemblyInfo.cs
+C:\Users\USER\source\repos\c#practicing\LINQ5\obj\Debug\net8.0\LINQ5.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\c#practicing\LINQ5\obj\Debug\net8.0\LINQ5.sourcelink.json
+C:\Users\USER\source\repos\c#practicing\LINQ5\bin\Debug\net8.0\LINQ5.exe
+C:\Users\USER\source\repos\c#practicing\LINQ5\bin\Debug\net8.0\LINQ5.deps.json
+C:\Users\USER\source\repos\c#practicing\LINQ5\bin\Debug\net8.0\LINQ5.runtimeconfig.json
+C:\Users\USER\source\repos\c#practicing\LINQ5\bin\Debug\net8.0\LINQ5.dll
+C:\Users\USER\source\repos\c#practicing\LINQ5\bin\Debug\net8.0\LINQ5.pdb
+C:\Users\USER\source\repos\c#practicing\LINQ5\obj\Debug\net8.0\LINQ5.dll
+C:\Users\USER\source\repos\c#practicing\LINQ5\obj\Debug\net8.0\refint\LINQ5.dll
+C:\Users\USER\source\repos\c#practicing\LINQ5\obj\Debug\net8.0\LINQ5.pdb
+C:\Users\USER\source\repos\c#practicing\LINQ5\obj\Debug\net8.0\LINQ5.genruntimeconfig.cache
+C:\Users\USER\source\repos\c#practicing\LINQ5\obj\Debug\net8.0\ref\LINQ5.dll
