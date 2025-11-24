@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\c#practicing\controlFlow\bin\Debug\net8.0\controlFlow.exe
+C:\Users\USER\source\repos\c#practicing\controlFlow\bin\Debug\net8.0\controlFlow.deps.json
+C:\Users\USER\source\repos\c#practicing\controlFlow\bin\Debug\net8.0\controlFlow.runtimeconfig.json
+C:\Users\USER\source\repos\c#practicing\controlFlow\bin\Debug\net8.0\controlFlow.dll
+C:\Users\USER\source\repos\c#practicing\controlFlow\bin\Debug\net8.0\controlFlow.pdb
+C:\Users\USER\source\repos\c#practicing\controlFlow\obj\Debug\net8.0\controlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\c#practicing\controlFlow\obj\Debug\net8.0\controlFlow.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\c#practicing\controlFlow\obj\Debug\net8.0\controlFlow.AssemblyInfo.cs
+C:\Users\USER\source\repos\c#practicing\controlFlow\obj\Debug\net8.0\controlFlow.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\c#practicing\controlFlow\obj\Debug\net8.0\controlFlow.sourcelink.json
+C:\Users\USER\source\repos\c#practicing\controlFlow\obj\Debug\net8.0\controlFlow.dll
+C:\Users\USER\source\repos\c#practicing\controlFlow\obj\Debug\net8.0\refint\controlFlow.dll
+C:\Users\USER\source\repos\c#practicing\controlFlow\obj\Debug\net8.0\controlFlow.pdb
+C:\Users\USER\source\repos\c#practicing\controlFlow\obj\Debug\net8.0\controlFlow.genruntimeconfig.cache
+C:\Users\USER\source\repos\c#practicing\controlFlow\obj\Debug\net8.0\ref\controlFlow.dll
