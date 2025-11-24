@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\c#practicing\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\USER\source\repos\c#practicing\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\USER\source\repos\c#practicing\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\USER\source\repos\c#practicing\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\USER\source\repos\c#practicing\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\USER\source\repos\c#practicing\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\c#practicing\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\c#practicing\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\USER\source\repos\c#practicing\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\c#practicing\inheritance\obj\Debug\net8.0\inheritance.sourcelink.json
+C:\Users\USER\source\repos\c#practicing\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\USER\source\repos\c#practicing\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\USER\source\repos\c#practicing\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\USER\source\repos\c#practicing\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\USER\source\repos\c#practicing\inheritance\obj\Debug\net8.0\ref\inheritance.dll
